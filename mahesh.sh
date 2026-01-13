@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Mahesh, Jenkins CI/CD is working!"
+echo "Hello Mahesh, Jenkins CI/CD is updated!"
